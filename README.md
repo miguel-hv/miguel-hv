@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miguel-hv
-- 👀 I’m interested in web development
+- 👀 I’m interested in Full Stack web development
 - 🌱 I’m currently learning JavaScript (MEAN/MERN) and PHP (Symfony)
 
 <!---
