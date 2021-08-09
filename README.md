@@ -6,8 +6,8 @@
 
 
 
-
-My main hobbies are playing guitar 🎸 , making music 💻 🎶 and skateboarding 🛹.
+Always playing!
+My main hobbies are making music 🎸 💻 🎶 and skateboarding 🛹
 
 <!---
 miguel-hv/miguel-hv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
