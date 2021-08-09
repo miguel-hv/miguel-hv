@@ -5,6 +5,8 @@
 🌱 I’m currently learning JavaScript (MEAN/MERN) and PHP (Symfony)
 
 
+
+
 My main hobbies are playing guitar 🎸 , making music 💻 🎶 and skateboarding 🛹.
 
 <!---
