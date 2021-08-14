@@ -9,7 +9,7 @@
 Always playing!
 My main hobbies are making music 🎸 💻 🎶 and skateboarding 🛹
 
-
+<p>&nbsp;</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hvmiguel/">
@@ -17,8 +17,7 @@ My main hobbies are making music 🎸 💻 🎶 and skateboarding 🛹
   </a>
 </p>
 
-
-
+<p>&nbsp;</p>
 
 <div align="center">
   <div>
