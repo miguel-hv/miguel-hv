@@ -10,11 +10,15 @@ Always playing!
 My main hobbies are making music 🎸 💻 🎶 and skateboarding 🛹
 
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/hvmiguel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
 </p>
+
+
+
 
 <div align="center">
   <div>
