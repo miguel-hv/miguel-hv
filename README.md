@@ -5,9 +5,7 @@
 🌱 I’m currently learning JavaScript (MEAN/MERN) and PHP (Symfony)
 
 
-
-Always playing!
-My main hobbies are making music 🎸 💻 🎶 and skateboarding 🛹
+Always playing
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hvmiguel/">
