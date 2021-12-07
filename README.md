@@ -5,8 +5,6 @@
 🌱 I’m currently learning JavaScript (MEAN/MERN) and PHP (Symfony)
 
 
-Always playing
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hvmiguel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
