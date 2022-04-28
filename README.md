@@ -1,8 +1,6 @@
 # Hi, I’m Miguel
 
-👀 I’m interested in Full Stack web development
-
-🌱 I’m currently learning JavaScript (MEAN/MERN) and PHP (Symfony)
+🌱 I’m currently learning JavaScript (MEAN/MERN) 
 
 
 <p align="center">
