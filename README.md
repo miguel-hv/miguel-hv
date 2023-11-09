@@ -1,6 +1,7 @@
 # Hi, I’m Miguel
 
-🌱 I’m currently learning JavaScript (MEAN/MERN) 
+🌱 I started learning JavaScript (MEAN/MERN) 
+:dart: Actually focused on Angular
 
 
 <p align="center">
