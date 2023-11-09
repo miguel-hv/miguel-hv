@@ -1,6 +1,7 @@
 # Hi, I’m Miguel
 
 🌱 I started learning JavaScript (MEAN/MERN) 
+
 :dart: Actually focused on Angular
 
 
