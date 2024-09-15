@@ -6,7 +6,6 @@
 
 Studying data structures and architecture through learning .NET
 
-If you wish to contact
 <p align="center">
   <a href="https://www.linkedin.com/in/hvmiguel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
