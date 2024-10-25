@@ -3,6 +3,7 @@
  I started learning JavaScript (MEAN/MERN) 
 
 :dart: Actually focused on Angular for frontend
+
 🌱 learning .NET for backend
 
 Currentyl studying data structures and architecture through C#
