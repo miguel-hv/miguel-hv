@@ -1,10 +1,11 @@
 # Hi, I’m Miguel
 
-🌱 I started learning JavaScript (MEAN/MERN) 
+ I started learning JavaScript (MEAN/MERN) 
 
-:dart: Actually focused on Angular
+:dart: Actually focused on Angular for frontend
+🌱 learning .NET for backend
 
-Studying data structures and architecture through learning .NET
+Currentyl studying data structures and architecture through C#
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hvmiguel/">
