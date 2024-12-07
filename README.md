@@ -2,9 +2,9 @@
 
  I started learning JavaScript (MEAN/MERN) 
 
-:dart: Actually focused on Angular for frontend
+:dart: Actually focused on React and Angular for frontend
 
-🌱 learning .NET for backend
+🌱 a bit of .NET, Python and Node for backend
 
 Currentyl studying data structures and architecture through C#
 
