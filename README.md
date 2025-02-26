@@ -6,7 +6,6 @@
 
 🌱 a bit of .NET, Python and Node for backend
 
-Currentyl studying data structures and architecture through C#
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hvmiguel/">
