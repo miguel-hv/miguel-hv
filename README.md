@@ -4,7 +4,7 @@
 
 :dart: Actually focused on React and Angular for frontend
 
-🌱 a bit of .NET, Python and Node for backend
+🌱 Learning Data Science with python
 
 
 <p align="center">
