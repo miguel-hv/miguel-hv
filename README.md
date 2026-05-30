@@ -2,9 +2,9 @@
 
  I started learning JavaScript (MEAN/MERN) 
 
-:dart: Actually focused on React and Angular for frontend
+:dart: Actually focused on Nextjs and Angular for frontend
 
-🌱 Learning backend with Java and a bit of Data Science with python
+🌱 Learning backend with Java 
 
 
 <p align="center">
